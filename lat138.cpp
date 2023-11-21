@@ -14,7 +14,7 @@ int Permutasi (int x, int y){
      Nilai_Permut = faktorial/selisih;
      return(Nilai_Permut);
 }
-int Main {
+int main() {
     int n, r;
     cout<<"Masukan nilai n : ";
     cin>>n;
